@@ -5,12 +5,12 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['923346690239, 'wasi', false],
   [''], 
   [''],
 ]
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "923346690239" //put your bot number here
 global.mods = ['923192173398'] 
 global.prems = ['923192173398', '923192173398', '923192173398']
 global.allowed = ['923192173398']
@@ -22,7 +22,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix"."
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -55,7 +55,7 @@ global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
-global.xmoji = '🌀' 
+global.xmoji = '🌀' true, active on
 
 global.multiplier = 69 
 global.maxwarn = '2' // máxima advertencias
@@ -65,4 +65,4 @@ watchFile(file, () => {
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
-})
+global.reactoin ' true' 
